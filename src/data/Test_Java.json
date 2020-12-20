@@ -1,0 +1,51 @@
+{
+  "test_id": "New Java Test 2020",
+  "doc_id": "TBD",
+  "title": "AgileSparks Java Test",
+  "technology": "favicons",
+  "duration_min": 20,
+  "questions": [
+    {
+      "id": 0,
+      "text": "What will be the result of compiling and running the following class?",
+      "image": "q1.png",
+      "answers": [
+        {
+          "text": "5"
+        },
+        {
+          "text": "A run-time error"
+        },
+        {
+          "text": "A compile-time error"
+        },
+        {
+          "image": "Something like Test@4563e9ab"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "text": "Which statement is true about destructors in Java?",
+      "answers": [
+        {
+          "text": "They are declared in the following
+way: MyClass::~MyClass();."
+        },
+        {
+          "text": "You must override the
+method destroy from Object to use them."
+        },
+        {
+          "text": "They must be annotated with @Destructor before they
+are called, so the garbage collector knows to remove it earlier than expected."
+        },
+        {
+          "text": "They are indirectly
+interpreted as a method called finalize, called at the discretion of the
+garbage collector."
+        }
+      ]
+    }
+  ]
+}
