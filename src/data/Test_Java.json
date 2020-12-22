@@ -29,21 +29,16 @@
       "text": "Which statement is true about destructors in Java?",
       "answers": [
         {
-          "text": "They are declared in the following
-way: MyClass::~MyClass();."
+          "text": "They are declared in the following way: MyClass::~MyClass();."
         },
         {
-          "text": "You must override the
-method destroy from Object to use them."
+          "text": "You must override the method destroy from Object to use them."
         },
         {
-          "text": "They must be annotated with @Destructor before they
-are called, so the garbage collector knows to remove it earlier than expected."
+          "text": "They must be annotated with @Destructor before they are called, so the garbage collector knows to remove it earlier than expected."
         },
         {
-          "text": "They are indirectly
-interpreted as a method called finalize, called at the discretion of the
-garbage collector."
+          "text": "They are indirectly interpreted as a method called finalize, called at the discretion of the garbage collector."
         }
       ]
     }
